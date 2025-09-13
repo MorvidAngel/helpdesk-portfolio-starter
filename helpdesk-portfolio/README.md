@@ -35,5 +35,5 @@ Windows • macOS • Ubuntu • Networking (IP/DNS/DHCP) • Microsoft 365 • 
 
 ## Contact
 
-- {link: GitHub https://github.com/MorvidAngel}
+- {Link: GitHub https://github.com/MorvidAngel}
 - {link: LinkedIn https://www.linkedin.com/in/jack-perez/}
