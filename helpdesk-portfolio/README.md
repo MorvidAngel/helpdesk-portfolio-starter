@@ -3,6 +3,7 @@
 Welcome! This repository showcases hands‑on troubleshooting, documentation, and customer communication skills relevant to Help Desk / IT Support roles.
 
 ## What you'll find
+
 - **KB Articles** (`/kb`) — step‑by‑step fixes for common issues
 - **Tickets** (`/tickets`) — triage → diagnosis → resolution write‑ups
 - **Labs** (`/labs`) — guided exercises with screenshots and learnings
@@ -11,9 +12,11 @@ Welcome! This repository showcases hands‑on troubleshooting, documentation, an
 - **Assets** (`/assets/screenshots`) — redacted screenshots/terminal captures
 
 ## Skills & Tools (edit me)
-Windows • macOS • Ubuntu • Networking (IP/DNS/DHCP) • Microsoft 365 • Endpoint Security • Ticketing discipline • Customer empathy • Documentation
+
+Windows • macOS • Ubuntu • Networking (IP/DNS/DHCP) • Microsoft 365 • Ticketing discipline • Customer empathy • Documentation
 
 ## Quick Nav
+
 - Start with **/README** (this page)
 - Browse **/kb** for Knowledge Base articles
 - See **/tickets** for ticket narratives and STAR results
@@ -21,7 +24,8 @@ Windows • macOS • Ubuntu • Networking (IP/DNS/DHCP) • Microsoft 365 • 
 - Check **/scripts** for small helpers
 - Use **/docs** for SOPs, email templates, and interview pack
 
-## Portfolio Roadmap (check off as you build)
+## Portfolio Roadmap
+
 - [ ] 5 KB articles
 - [ ] 5 Ticket write‑ups
 - [ ] 3 Labs
@@ -30,4 +34,6 @@ Windows • macOS • Ubuntu • Networking (IP/DNS/DHCP) • Microsoft 365 • 
 - [ ] Interview notes + role mapping
 
 ## Contact
-Add contact details or LinkedIn/GitHub profile link here.
+
+- {link: GitHub https://github.com/MorvidAngel}
+- {link: LinkedIn https://www.linkedin.com/in/jack-perez/}
