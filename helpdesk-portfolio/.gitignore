@@ -2,6 +2,8 @@
 .DS_Store
 Thumbs.db
 .vscode/
-
+Email-Templates.md
+Job-Requirements-Map.md
+**/templates/
 # Ignore raw screenshots if needed (uncomment to exclude)
 # assets/screenshots/
