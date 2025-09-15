@@ -3,7 +3,8 @@
 Thumbs.db
 .vscode/
 .Email-Templates.md
-.Job-Requirements-Map.md
+.Job-Requirements-Map
 templates/
 # Ignore raw screenshots if needed (uncomment to exclude)
 # assets/screenshots/
+/templates
